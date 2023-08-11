@@ -1,6 +1,7 @@
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/OpenImageDebugger/OpenImageDebugger.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/OpenImageDebugger/OpenImageDebugger/alerts/)
 [![Language grade: C/C++](https://img.shields.io/lgtm/grade/cpp/g/OpenImageDebugger/OpenImageDebugger.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/OpenImageDebugger/OpenImageDebugger/context:cpp)
 [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/OpenImageDebugger/OpenImageDebugger.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/OpenImageDebugger/OpenImageDebugger/context:python)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FOpenImageDebugger%2FOpenImageDebugger.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FOpenImageDebugger%2FOpenImageDebugger?ref=badge_shield)
 
 # Open Image Debugger: Enabling visualization of in-memory buffers on GDB/LLDB
 Open Image Debugger is a tool for visualizing in-memory buffers during debug
@@ -280,3 +281,7 @@ decorators `@interface.debug_buffer_metadata` and
 `@interface.debug_symbol_observable` in the methods `get_buffer_metadata` and
 `is_symbol_observable`, respectively. This will print information about all
 analyzed symbols in the debugger console every time a breakpoint is hit.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FOpenImageDebugger%2FOpenImageDebugger.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FOpenImageDebugger%2FOpenImageDebugger?ref=badge_large)
